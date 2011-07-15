@@ -1,0 +1,43 @@
+.headingH3{
+color: #5A5A5A;
+font-family: Georgia,"Times New Roman",Times,serif;
+font-weight: normal;
+}
+
+#url_div input[type="text"]{
+    border-style: solid;
+    border-width: 1px;
+    width: 460px;
+}
+
+
+
+body, td, textarea, input, select {
+    font-family: "Lucida Grande",Verdana,Arial,"Bitstream Vera Sans",sans-serif;
+    font-size: 13px;
+}
+
+
+
+
+
+
+.btn_submit {
+   /*border-top: 1px solid #96d1f8;*/
+   background: #aaaaaa;
+   /*background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));*/
+   background: -moz-linear-gradient(top, #dddddd, #aaaaaa);
+   /*padding: 5px 5px;*/
+   -webkit-border-radius: 14px;
+   -moz-border-radius: 14px;
+   border-radius: 14px;
+   /*-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;*/
+   color:#000000;
+   font-size: 12px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
